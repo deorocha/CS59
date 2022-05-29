@@ -1,2 +1,2 @@
-# CS59
+# CS50
 Curso CS50
